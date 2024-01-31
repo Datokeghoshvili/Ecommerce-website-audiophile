@@ -24,8 +24,7 @@ npm install
 ```
 
  To see project in action
-
-```
+-----------------Start Project----------
 npm run dev
 ```
 
@@ -50,21 +49,7 @@ npm run dev
 |   |--- ScrollOnTop # functionality of scrolling top when rout changes
 - package.json     # dependency manager configurations
 
-```
 
-#
-
-### Deployment
-
-Before every deployment you need to create build file.
-
-```
-npm run build
-```
-
-after this you can use this file to deploy project on server.
-
-#
 
 ### Author
 
